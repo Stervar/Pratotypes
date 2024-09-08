@@ -1,4 +1,4 @@
-
+# Пратотип номер (1)
 
 class Module_Fundamentals_of_Programming_1_1:
     def __init__(self, module_name, description,version):
