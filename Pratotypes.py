@@ -218,7 +218,7 @@
 #     for num, module in ASED_library.items():
 #         print(f"{num}: {module['name']} - {module['description']}")
 #     input("\nНажмите Enter, чтобы вернуться к выбору модуля.")
-#     manual_module_search(language)
+#     manual_module_search(language) 
 
 # # Функция для отображения информации о выбранном модуле
 # def display_module_info(module_num):
